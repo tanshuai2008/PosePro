@@ -1,0 +1,11 @@
+{
+  "name": "Boyfriend Camera Coach",
+  "description": "An AI-powered photography coach that helps you take perfect, partner-approved photos. Provides real-time camera composition analysis, viral photo overlays, location-specific guides, aesthetic grading, and self-learning preferences.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
